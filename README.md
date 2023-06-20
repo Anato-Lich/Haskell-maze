@@ -1,2 +1,1 @@
-# Haskell-maze
-Генерация и прохождение лабиринта. Код на языке Haskell
+# Nosov-maze
